@@ -1,0 +1,21 @@
+body{
+    background: #000000e8;
+}
+h1{
+    color: rgb(255, 0, 98);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+h2 {
+    color: #a200ff;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: #88ff00;
+    font-size: 100px;
+}
+h4{
+    color: #0099ff;
+    font-size: 30px;
+}
